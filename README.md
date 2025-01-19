@@ -1,6 +1,6 @@
 # Olá! Eu sou Samuel Bernardo 👋
 
-Tenho grande interesse em desenvolvimento de software, sou apaixonado por tecnologia e estou sempre buscando evoluir. Meu foco atual está em desenvolver minhas habilidades em front-end e back-end, explorando novas tecnologias para entregar projetos de qualidade e gerar valor por meio da programação.
+Tenho grande interesse em desenvolvimento de software. Meu foco atual está em desenvolver minhas habilidades em front-end e back-end, explorando novas tecnologias para entregar projetos de qualidade e gerar valor por meio da programação.
 
 ---
 
