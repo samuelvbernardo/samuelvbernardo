@@ -30,6 +30,5 @@ Tenho grande interesse em desenvolvimento de software. Meu foco atual está em d
 
 ## 💬 **Entre em contato:**
 
-✉️ **E-mail:** samuelbernardo.@ads.fiponline.edu.br  
-📱 **WhatsApp:** [Clique aqui](https://wa.me/5583981656768)
+✉️ **E-mail:** samuelbernardo.@ads.fiponline.edu.br  .me/5583981656768)
 
