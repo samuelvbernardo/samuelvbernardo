@@ -1,30 +1,43 @@
-# Olá! Eu sou Samuel Bernardo 👋
+<h1 align="center">Olá, eu sou o Samuel Bernardo 👋</h1>
 
-Sou um desenvolvedor em formação, com foco em **desenvolvimento web**. Atualmente, estou dedicado a aprimorar minhas habilidades em **front-end** e **back-end**, sempre explorando novas tecnologias e buscando novos conhecimentos.
+<p align="center">
+  Desenvolvedor em formação, focado em <b>desenvolvimento web</b>.<br>
+  Explorando o universo do <b>front-end</b> e <b>back-end</b>, sempre em busca de novos conhecimentos!
+</p>
 
-## 🛠️ **Tecnologias e Ferramentas que utilizo:**
-<div style="display: inline_block"><br>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-</div>
+---
 
-## 📊 **Estatísticas do GitHub:**
+<p align="center">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img alt="Django" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelvbernardo&show_icons=true&theme=radical&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvbernardo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelvbernardo&show_icons=true&theme=radical&cache_seconds=1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvbernardo&layout=compact&theme=radical&cache_seconds=1" height="150"/>
+</p>
 
-## 🔗 **Vamos nos conectar:**
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-bernardo-517612324/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/samuelbernardo0/" target="_blank">
+    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:samuelbernardo.dev@gmail.com">
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+  </a>
+</p>
 
-- Linkedin: [LinkedIn](https://www.linkedin.com/in/samuel-bernardo-517612324/)
-- Instagram: [Instagram](https://www.instagram.com/samuelbernardo0/)
-- E-mail: [samuelbernardo.dev@gmail.com](mailto:samuelbernardo.dev@gmail.com)
 
-## 🌱 **Sempre em evolução!**
+---
 
-Estou em constante aprendizado e buscando sempre aprimorar minhas habilidades. Se você tem algum projeto interessante, deseja trocar ideias ou apenas conversar sobre tecnologia, fique à vontade para me enviar uma mensagem. Vamos crescer juntos!
+<p align="center">
+  <b>Em constante evolução 🚀<br>
+  Fique a vontade para entrar em contato.</b>
