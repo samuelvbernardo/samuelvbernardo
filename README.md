@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Samuel Bernardo 👋</h1>
+<h1 align="center">Olá, eu sou Samuel Bernardo 👋</h1>
 
 <p align="center">
   Desenvolvedor em formação, focado em <b>desenvolvimento web</b>.<br>
