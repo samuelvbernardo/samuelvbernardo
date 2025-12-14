@@ -1,6 +1,13 @@
+<img 
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBSLI3WNYaUoisfcRXc5uzuHgBYpFktt2xA&s" alt="Puss in Boots Greeting)" 
+  alt="Corgi Smiling" 
+  width="150" 
+  align="right"
+/>
+<br>
+<br>
 <h1 align="left">
-  Hi there, I'm Samuel Bernardo ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-  <img src="https://media.tenor.com/aHLyLZzehgwAAAAM/puss-puss-in-boots.gif" alt="Puss in Boots Greeting" width="100" style="vertical-align:middle; margin-left:100px; float: right;">
+  Hi there, I'm Samuel Bernardo
 </h1>
 
 Welcome to my GitHub profile! I'm a passionate software developer in training, focused on web development. Here's a bit about me:
