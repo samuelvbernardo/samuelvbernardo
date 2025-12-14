@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer in training, f
 
 ## 🧑‍💻 About Me
 
-- 💼 Exploring both **Front-End** and **Back-End** development.  
+- 💻 Exploring both **Front-End** and **Back-End** development.  
 - 🎓 Currently learning and improving skills in Django, Python, JavaScript, TypeScript, HTML, CSS, Next.js, Tailwind, and PostgreSQL.  
 - 🌐 I enjoy building web applications and solving problems with technology.  
 - 📚 Always eager to learn and explore new technologies.  
