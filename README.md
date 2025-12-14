@@ -1,11 +1,11 @@
 <img 
   src="https://media.tenor.com/aHLyLZzehgwAAAAM/puss-puss-in-boots.gif"
   alt="Puss in Boots Greeting"
-  width="150"
+  width="100"
   align="right"
 />
+<br>
 
-<br><br><br>
 
 <h1 align="left">
   Hi there, I'm Samuel Bernardo
