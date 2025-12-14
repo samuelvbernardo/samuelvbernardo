@@ -6,6 +6,7 @@
 />
 <br>
 <br>
+<br>
 <h1 align="left">
   Hi there, I'm Samuel Bernardo
 </h1>
