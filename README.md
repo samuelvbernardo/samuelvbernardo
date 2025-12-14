@@ -25,9 +25,10 @@ Welcome to my GitHub profile! I'm a passionate software developer in training, f
 
 ## 🚀 Skills
 
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Tools:** Django, Next.js, Tailwind, Bootstrap, Git, MySQL, PostgreSQL  
-- **Web Development:** Front-End & Back-End
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks & Libraries:** Django, Django REST Framework (DRF), React, Next.js, Tailwind CSS, Bootstrap
+- **Databases:** MySQL, PostgreSQL
+- **Web Development:** Front-end & Back-end
 
 ## 📈 GitHub Stats
 
