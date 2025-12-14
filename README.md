@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi there, I'm Samuel Bernardo ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                     
+  Hi there, I'm Samuel Bernardo ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   <img src="https://media.tenor.com/aHLyLZzehgwAAAAM/puss-puss-in-boots.gif" alt="Puss in Boots Greeting" width="100" style="vertical-align:middle; margin-left:100px; float: right;">
 </h1>
 
