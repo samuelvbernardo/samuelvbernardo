@@ -7,20 +7,18 @@
 <br>
 
 
-<h1 align="left">
-  Hi there, I'm Samuel Bernardo
-</h1>
+# Hey, I'm Samuel Bernardo 👋
 
-
-Welcome to my GitHub profile! I'm a passionate software developer in training, focused on web development. Here's a bit about me:
+I'm a **Software Development student** focused on building real-world web applications. I like learning by doing turning ideas into systems that actually work.
 
 ## 🧑‍💻 About Me
 
-- 💻 Exploring both **Front-End** and **Back-End** development.  
-- 🎓 Currently learning and improving skills in Django, Python, JavaScript, TypeScript, HTML, CSS, Next.js, Tailwind, and PostgreSQL.  
-- 🌐 I enjoy building web applications and solving problems with technology.  
-- 📚 Always eager to learn and explore new technologies.  
-- 🚀 Constantly evolving as a developer and exploring new challenges.  
+- 🎓 Studying **Analysis and Development of Systems (ADS)**  
+- 🧩 Focused on **Web Development**, working with both front-end and back-end  
+- ⚙️ Currently building projects with **Django, Django REST Framework, React and TypeScript**  
+- 🛠️ I enjoy structuring APIs, defining business rules and connecting front-end to back-end  
+- 📈 Always trying to write cleaner code and improve project organization  
+
 
 
 ## 🚀 Skills
@@ -54,9 +52,7 @@ Welcome to my GitHub profile! I'm a passionate software developer in training, f
 - LinkedIn: [Samuel Bernardo](https://www.linkedin.com/in/samuel-bernardo-517612324/)  
 - Email: samuelbernardo.dev@gmail.com  
 
-Feel free to reach out if you want to collaborate on a project, or just chat about tech!  
-
-Thanks for stopping by! 😄
+I'm always open to talk about projects, learning paths or collaboration ideas 😄 
 
 
 
