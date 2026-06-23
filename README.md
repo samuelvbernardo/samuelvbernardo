@@ -6,26 +6,25 @@
 />
 <br>
 
-
 # Hey, I'm Samuel Bernardo 👋
 
-I'm a **Software Development student** focused on building real-world web applications. I like learning by doing turning ideas into systems that actually work.
+I'm a **Software Developer** graduated in **Analysis and Systems Development (ADS)**, focused on building full-stack web applications with Django, React, Next.js and TypeScript. I enjoy learning by doing and turning ideas into systems that actually solve problems.
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Analysis and Development of Systems (ADS)**  
-- 🧩 Focused on **Web Development**, working with both front-end and back-end  
-- ⚙️ Currently building projects with **Django, Django REST Framework, React and TypeScript**  
-- 🛠️ I enjoy structuring APIs, defining business rules and connecting front-end to back-end  
-- 📈 Always trying to write cleaner code and improve project organization  
-
-
+- 🎓 Graduated in **Analysis and Systems Development (ADS)**
+- 🧩 Focused on **Web Development**, working with both front-end and back-end
+- ⚙️ Building projects with **Django, Django REST Framework, React, Next.js and TypeScript**
+- 🛠️ I enjoy structuring APIs, defining business rules and connecting front-end to back-end
+- 🚀 Interested in scalable systems, clean architecture and practical solutions
+- 📈 Always improving my code quality, project organization and software engineering skills
 
 ## 🚀 Skills
 
 - **Languages:** Python, JavaScript, TypeScript
 - **Frameworks & Libraries:** Django, Django REST Framework (DRF), React, Next.js, Tailwind CSS, Bootstrap
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** PostgreSQL
+- **Tools & Practices:** Git, Docker, REST APIs, JWT Authentication, CI/CD
 - **Web Development:** Front-end & Back-end
 
 ## 📈 GitHub Stats
@@ -49,11 +48,7 @@ I'm a **Software Development student** focused on building real-world web applic
   align="right"
 />
 
-- LinkedIn: [Samuel Bernardo](https://www.linkedin.com/in/samuel-bernardo-517612324/)  
-- Email: samuelbernardo.dev@gmail.com  
+- LinkedIn: [Samuel Bernardo](https://www.linkedin.com/in/samuel-bernardo-517612324/)
+- Email: samuelbernardo.dev@gmail.com
 
-I'm always open to talk about projects, learning paths or collaboration ideas 😄 
-
-
-
-
+I'm always open to talk about projects, software development, learning paths or collaboration ideas 😄
